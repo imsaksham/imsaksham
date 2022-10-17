@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sakshamkumarsingh99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZdCnApYyBXhirEDUv8Sywy0pwEVmSxOo/view?usp=sharing](https://drive.google.com/file/d/1ZdCnApYyBXhirEDUv8Sywy0pwEVmSxOo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZdCnApYyBXhirEDUv8Sywy0pwEVmSxOo/view?usp=sharing)
 
 - ⚡ Fun fact **Sometimes I love to dance in an inappropriate manner just to enjoy the moment**
 
