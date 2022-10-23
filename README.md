@@ -34,7 +34,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=imsaksham&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imsaksham&theme=chartreuse-dark&no-frame=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsaksham&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsaksham&langs_count=8&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
