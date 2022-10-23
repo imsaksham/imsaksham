@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sakshamkumarsingh99@gmail.com**
 
-- ⚡ Fun fact **Not a dancer but I love to dance just to enjoy the moment**
+- ⚡ Fun fact **I can take a nap for a specified amount of time, like say 22 minutes**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imsaksham&theme=matrix&margin-w=8)
