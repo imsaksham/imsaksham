@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Not a dancer but I love to dance just to enjoy the moment**
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=imsaksham
+https://github-profile-trophy.vercel.app/?username=imsaksham&theme=matrix
 
 
 
