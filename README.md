@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **sakshamkumarsingh99@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZdCnApYyBXhirEDUv8Sywy0pwEVmSxOo/view?usp=sharing)
+
 - ⚡ Fun fact **I can take a nap for a specified amount of time, like say 22 minutes**
 
 ## 🏆 GitHub Trophies
