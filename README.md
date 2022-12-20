@@ -32,7 +32,7 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-[(https://github-readme-activity-graph.cyclic.app/graph?username=imsaksham&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=imsaksham&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=imsaksham&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imsaksham&theme=chartreuse-dark&no-frame=true)<br/>
