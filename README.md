@@ -6,8 +6,6 @@
 <p align="left"> <img margin="auto" src="https://komarev.com/ghpvc/?username=imsaksham&label=Profile%20views&color=0e75b6&style=flat" alt="imsaksham" /> </p>
 
 
-- 🔭 I am currently learning <b>Java backend development</b>
-
 - 🌱 I’m currently learning **Java Backend**
 
 - 👨‍💻 All of my projects are available at [imsaksham.github.io](imsaksham.github.io)
