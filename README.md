@@ -6,7 +6,7 @@
 <p align="left"> <img margin="auto" src="https://komarev.com/ghpvc/?username=imsaksham&label=Profile%20views&color=0e75b6&style=flat" alt="imsaksham" /> </p>
 
 
-- 🔭 I am currently working on  [Portfolio](https://imsaksham.github.io/)
+- 🔭 I am currently learning Java backend development
 
 - 🌱 I’m currently learning **Java Backend**
 
