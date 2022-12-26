@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://imsaksham.github.io/imsaksham/">
-  <img  src="https://github.com/imsaksham/imsaksham/blob/output/github-contribution-grid-snake.gif"
+  <img  src="https://github.com/imsaksham/imsaksham/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
