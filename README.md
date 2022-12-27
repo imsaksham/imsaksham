@@ -138,7 +138,7 @@
           </a>
         </p>
     
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>statistic</h3></summary>
         <p align="center">
           <a href="https://github.com/imsaksham/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=imsaksham&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -148,7 +148,7 @@
      <br>
      </samp>
   
-  <summary>📈 Latest Activity Graph</summary>
+  <summary>Latest Activity Graph</summary>
   <samp>
     <br>
     <a href="https://github.com/imsaskham/github-readme-activity-graph"><img alt="saksham's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=imsaksham&theme=gruvbox&no-frame=true" /></a>
