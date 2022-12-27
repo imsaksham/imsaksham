@@ -138,7 +138,7 @@
           </a>
         </p>
     
-  <summary><h3>Statistic</h3></summary>
+  <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/imsaksham/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=imsaksham&show_icons=true&theme=gruvbox&hide_border=true" />
