@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif?raw=true" width="40px" />, I'm Saksham Kumar Singh</h1>
-<h5 align="center">a passionate java backend developer from India and also a Computer Science Engineering students at Rajiv Gandhi Proudyogiki Vishwavidyalaya</h5>
+<h4 align="center">a passionate java backend developer from India and also a Computer Science Engineering students at Rajiv Gandhi Proudyogiki Vishwavidyalaya</h4>
 
 <div align="center">
   <a href="https://imsaksham.github.io/imsaksham/">
