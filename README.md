@@ -75,41 +75,43 @@
 
 - **Languages**:
     
-    ![JavaScript](https://img.shields.io/badge/javascript%20-%232370ED.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=Java%2B%2B&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 
 - **Backend-End Development**:
 
-   ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=Java&logoColor=white)
-   ![MySql](https://img.shields.io/badge/MySql%20-%23327FC7.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   ![SprinBoot](https://img.shields.io/badge/SpringBoot%20-darkgreen.svg?style=for-the-badge&logo=springboot&logoColor=white)
-   ![Hibernate](https://img.shields.io/badge/Hibernate%20-%23E34F26.svg?style=for-the-badge&logo=hibernate&logoColor=black)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+   ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+   ![Hibernate](https://img.shields.io/badge/hibernate%20-%BDB07A.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 <br>
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%36454F.svg?style=for-the-badge&logo=github&logoColor=black)
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%36454F.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     
 <br>
 
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Intellij](https://img.shields.io/badge/Intellij-0078d7?style=for-the-badge&logo=intellij-idea&logoColor=black)
+    ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) 
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
