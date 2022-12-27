@@ -99,7 +99,7 @@
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%36454F.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%36454F.svg?style=for-the-badge&logo=github&logoColor=black)
     
 <br>
 
@@ -108,6 +108,7 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Intellij](https://img.shields.io/badge/Intellij-0078d7?style=for-the-badge&logo=intellij-idea&logoColor=black)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
