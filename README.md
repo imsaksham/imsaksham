@@ -148,7 +148,7 @@
      <br>
      </samp>
   
-  <summary>Latest Activity Graph</summary>
+  <summary><h3>Latest Activity Graph</h3></summary>
   <samp>
     <br>
     <a href="https://github.com/imsaskham/github-readme-activity-graph"><img alt="saksham's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=imsaksham&theme=gruvbox&no-frame=true" /></a>
