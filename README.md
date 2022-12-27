@@ -120,6 +120,44 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/imsaksham/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsaksham&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="imsaksham :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/imsaksham/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsaksham&theme=gruvbox&layout=compact&hide_border=true"
+          alt="imsaksham :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imsaksham&theme=gruvbox&layout=compact&hide_border=true"
+          alt="imsaksham :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/imsaksham/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=imsaksham&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsaksham&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
+
+
+
 <p align="left">
 <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=imsaksham&theme=chartreuse-dark&no-frame=true" /></p>
 
