@@ -31,7 +31,7 @@
 
 
 ## <picture><img src = "https://camo.githubusercontent.com/4cdf1cad87c66d18d09470890c712744d8713a6f3fd37ab20adf22b147805763/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51614d635853656b55577837616f674155722f67697068792e676966" width = 50px></picture> **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=imsaksham&theme=matrix&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=imsaksham&theme=gruvbox&margin-w=8)
 
 <br><br>
 
