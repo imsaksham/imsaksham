@@ -121,13 +121,8 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
+<div>
   <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/imsaksham/">
@@ -142,8 +137,7 @@
           alt="imsaksham :: Top Langs by commit" />
           </a>
         </p>
-</details>
-    <details open>
+    
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/imsaksham/">
@@ -153,17 +147,14 @@
        </p>
      <br>
      </samp>
-  </div>    
-</details>
-
-
-
-<p align="left">
-<img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=imsaksham&theme=chartreuse-dark&no-frame=true" /></p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=imsaksham&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imsaksham&theme=chartreuse-dark&no-frame=true)<br/>
-![](https://github-readme-stats.vercel.app/api/?username=imsaksham&hide=ASP.NET&theme=chartreuse-dark&no-frame=true&include_all_commits=true&count_private=true&layout=compact)
+  
+  <summary>📈 Latest Activity Graph</summary>
+  <samp>
+    <br>
+    <a href="https://github.com/imsaskham/github-readme-activity-graph"><img alt="saksham's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=imsaksham&theme=gruvbox&no-frame=true" /></a>
+    <br/>
+  </samp>
+</div>
 
 
 
