@@ -93,15 +93,7 @@
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![Hibernate](https://img.shields.io/badge/hibernate%20-000000.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
    ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     
 <br>
 
