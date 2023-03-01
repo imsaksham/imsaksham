@@ -92,6 +92,7 @@
 
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![JDBC](https://img.shields.io/badge/jdbc-000000.svg?style=for-the-badge&logo=jdbc&logoColor=blue)
    ![Hibernate](https://img.shields.io/badge/hibernate%20-000000.svg?style=for-the-badge&logo=hibernate&logoColor=white)
    ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
     
