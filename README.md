@@ -16,7 +16,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3WCfJIk-8AFQXomLsRPqFF&ust=1683958203496000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD-4qaP7_4CFQAAAAAdAAAAABAE" width = 250px></picture>
+<picture> <img align="right" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width = 250px></picture>
 
 <br>
 
