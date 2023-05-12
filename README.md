@@ -28,7 +28,7 @@
 
 <br>
 
-<picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></picture> <br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ## <picture><img src = "https://camo.githubusercontent.com/4cdf1cad87c66d18d09470890c712744d8713a6f3fd37ab20adf22b147805763/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51614d635853656b55577837616f674155722f67697068792e676966" width = 50px></picture> **GitHub Trophies**
@@ -36,7 +36,9 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br><br>
 
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
