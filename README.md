@@ -59,7 +59,7 @@
       <a href="https://instagram.com/imsaksham9" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="imsaksham" height="30"/></a>
-      <a href="https://wa.me/+917987126495" target="blank"><img align="center"
+      <a href="https://wa.me/+917219558853" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="imsaksham" height="30"/></a>
       <br>
