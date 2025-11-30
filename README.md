@@ -24,7 +24,7 @@
 - Playing cricket at spare time
 - Currently learning Web Development
 - Personal website [link](https://imsaksham.github.io)
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1dzLcaSHK4mALUkXiy_h22DCNyExsLH1h/view?usp=share_link)
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JDQ2N2JH5jwsMXfsCQPs04OE5bKmg0cL/view?usp=sharing)
 
 <br>
 
